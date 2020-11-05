@@ -14,3 +14,7 @@
 ## 3. Polygons
 
 ![](03-polygons/seattle_adu.png)
+
+## 4. Hexagons
+
+![](04-hexagons/street_trees.png)
