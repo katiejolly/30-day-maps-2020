@@ -18,3 +18,7 @@
 ## 4. Hexagons
 
 ![](04-hexagons/street_trees.png)
+
+## 5. Blue
+
+![](05-blue/san_juan_structures.png)
