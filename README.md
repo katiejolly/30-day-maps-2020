@@ -22,3 +22,7 @@
 ## 5. Blue
 
 ![](05-blue/san_juan_structures.png)
+
+## 9. Monochrome
+
+![](09-monochrome/dc_housing.png)
