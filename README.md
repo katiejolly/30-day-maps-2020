@@ -26,3 +26,7 @@
 ## 9. Monochrome
 
 ![](09-monochrome/dc_housing.png)
+
+## 17. Islands
+
+![](17-islands/chesapeake_islands_annotated.png)
