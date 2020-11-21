@@ -27,6 +27,10 @@
 
 ![](09-monochrome/dc_housing.png)
 
-## 17. Islands
+## 16. Islands
 
 ![](17-islands/chesapeake_islands_annotated.png)
+
+## 20. Population
+
+![](20-population/urbanization_virginia.png)
